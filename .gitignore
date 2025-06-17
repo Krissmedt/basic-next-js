@@ -1,3 +1,11 @@
 /.idea
 /.next
 /node_modules
+/basic-next-js.iml
+/app/layout.tsx
+/dist/out-tsc/like-button.js
+/dist/out-tsc/like-button.js.map
+/next-env.d.ts
+/dist/out-tsc/page.js
+/dist/out-tsc/page.js.map
+/pnpm-lock.yaml

@@ -1,6 +1,6 @@
 import LikeButton from "./like-button";
 
-function Header({title}) {
+function Header({title}: {title: string}) {
     return <h1>{title ? title : 'Default title'}</h1>;
 }
 
